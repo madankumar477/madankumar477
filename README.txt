@@ -1,1 +1,0 @@
-Place your custom banner here as banner.png. You can use the concept image generated in ChatGPT as inspiration or upload it after editing.
