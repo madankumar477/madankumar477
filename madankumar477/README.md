@@ -47,7 +47,7 @@
 ### 📊 GITHUB.ANALYTICS
 
 <img src="https://github-readme-stats.vercel.app/api?username=madankumar477&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050505&title_color=22D3EE&icon_color=A78BFA&text_color=E5E7EB" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=madankumar477&theme=tokyonight&hide_border=true&background=050505&stroke=22D3EE&ring=A78BFA&fire=E879F9&currStreakLabel=22D3EE" alt="GitHub Streak" height="165"/>
+<img src="https://streak-stats.demolab.com/?user=madankumar477&theme=tokyonight&hide_border=true&background=050505&stroke=22D3EE&ring=A78BFA&fire=E879F9&currStreakLabel=22D3EE" alt="GitHub Streak" height="165"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=madankumar477&layout=compact&theme=tokyonight&hide_border=true&bg_color=050505&title_color=22D3EE&text_color=E5E7EB" alt="Top Languages" height="165"/>
 
