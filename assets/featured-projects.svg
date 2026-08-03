@@ -1,0 +1,99 @@
+<svg viewBox="0 0 1080 698" xmlns="http://www.w3.org/2000/svg" font-family="'JetBrains Mono','Fira Code',monospace">
+  <defs>
+    <style>
+      .mono { font-family: 'JetBrains Mono','Fira Code',monospace; }
+      .name { fill: #f1f5f9; font-weight: bold; }
+      .tag { font-size: 11px; letter-spacing: 1px; }
+      .desc { fill: #94a3b8; font-size: 12.5px; }
+      .stack_lbl { fill: #64748b; font-size: 10px; letter-spacing: 2px; }
+      .stack { fill: #22d3ee; font-size: 12.5px; }
+      .link { fill: #a78bfa; font-size: 12px; }
+    </style>
+  </defs>
+  <rect width="1080" height="698" fill="none"/>
+  <text x="40" y="35" class="mono" fill="#a78bfa" font-size="18" font-weight="bold" letter-spacing="2">FEATURED.SYSTEMS</text>
+  
+  <g transform="translate(40,60)">
+    <rect width="480" height="178" rx="10" fill="#020617" stroke="#1e293b" stroke-width="1.5"/>
+    <rect width="480" height="178" rx="10" fill="none" stroke="#a78bfa" stroke-width="1" opacity="0.55"/>
+    <circle cx="22" cy="24" r="4" fill="#a78bfa"/>
+    <text x="36" y="29" class="mono name" font-size="16">TwinArm-AI</text>
+    <text x="464" y="46" text-anchor="end" class="mono tag" fill="#a78bfa">ROBOTICS</text>
+    <text x="22" y="58" class="mono desc">Leader-follower robotic arm mirroring system — real-time</text>
+    <text x="22" y="76" class="mono desc">pose sync between two Dobot arms via ROS-style control loop.</text>
+    <line x1="22" y1="96" x2="458" y2="96" stroke="#1e293b" stroke-width="1"/>
+    <text x="22" y="120" class="mono stack_lbl">STACK</text>
+    <text x="22" y="140" class="mono stack">Python · ROS2 (Humble) · Dobot API</text>
+    <text x="22" y="162" class="mono link">↳ github.com/madankumar477/TwinArm-AI</text>
+  </g>
+
+  <g transform="translate(560,60)">
+    <rect width="480" height="178" rx="10" fill="#020617" stroke="#1e293b" stroke-width="1.5"/>
+    <rect width="480" height="178" rx="10" fill="none" stroke="#22d3ee" stroke-width="1" opacity="0.55"/>
+    <circle cx="22" cy="24" r="4" fill="#22d3ee"/>
+    <text x="36" y="29" class="mono name" font-size="16">AI-Hand-Gesture-Mouse</text>
+    <text x="464" y="46" text-anchor="end" class="mono tag" fill="#22d3ee">AI / VISION</text>
+    <text x="22" y="58" class="mono desc">Real-time hand-tracking system that drives mouse cursor,</text>
+    <text x="22" y="76" class="mono desc">click & scroll purely from webcam gesture recognition.</text>
+    <line x1="22" y1="96" x2="458" y2="96" stroke="#1e293b" stroke-width="1"/>
+    <text x="22" y="120" class="mono stack_lbl">STACK</text>
+    <text x="22" y="140" class="mono stack">Python · OpenCV · MediaPipe · PyAutoGUI</text>
+    <text x="22" y="162" class="mono link">↳ github.com/madankumar477/AI-Hand-Gesture-Mouse</text>
+  </g>
+
+  <g transform="translate(40,270)">
+    <rect width="480" height="178" rx="10" fill="#020617" stroke="#1e293b" stroke-width="1.5"/>
+    <rect width="480" height="178" rx="10" fill="none" stroke="#f472b6" stroke-width="1" opacity="0.55"/>
+    <circle cx="22" cy="24" r="4" fill="#f472b6"/>
+    <text x="36" y="29" class="mono name" font-size="14">Robot Monitoring Dashboard</text>
+    <text x="464" y="46" text-anchor="end" class="mono tag" fill="#f472b6">SOFTWARE</text>
+    <text x="22" y="58" class="mono desc">Full-stack dashboard for 8+ live ROS2 metrics — battery,</text>
+    <text x="22" y="76" class="mono desc">velocity, sensors, connectivity & fault history logging.</text>
+    <line x1="22" y1="96" x2="458" y2="96" stroke="#1e293b" stroke-width="1"/>
+    <text x="22" y="120" class="mono stack_lbl">STACK</text>
+    <text x="22" y="140" class="mono stack">Python · ROS2 · FastAPI · SQL · Docker</text>
+    <text x="22" y="162" class="mono link">↳ Featured build @ ATI Motors</text>
+  </g>
+
+  <g transform="translate(560,270)">
+    <rect width="480" height="178" rx="10" fill="#020617" stroke="#1e293b" stroke-width="1.5"/>
+    <rect width="480" height="178" rx="10" fill="none" stroke="#4ade80" stroke-width="1" opacity="0.55"/>
+    <circle cx="22" cy="24" r="4" fill="#4ade80"/>
+    <text x="36" y="29" class="mono name" font-size="14">Weld Defect Detection (ML)</text>
+    <text x="464" y="46" text-anchor="end" class="mono tag" fill="#4ade80">MACHINE LEARNING</text>
+    <text x="22" y="58" class="mono desc">Computer-vision classifier that detects & grades weld</text>
+    <text x="22" y="76" class="mono desc">defects from image datasets using classical ML pipeline.</text>
+    <line x1="22" y1="96" x2="458" y2="96" stroke="#1e293b" stroke-width="1"/>
+    <text x="22" y="120" class="mono stack_lbl">STACK</text>
+    <text x="22" y="140" class="mono stack">Python · OpenCV · Scikit-learn · Pandas</text>
+    <text x="22" y="162" class="mono link">↳ Applied ML project</text>
+  </g>
+
+  <g transform="translate(40,480)">
+    <rect width="480" height="178" rx="10" fill="#020617" stroke="#1e293b" stroke-width="1.5"/>
+    <rect width="480" height="178" rx="10" fill="none" stroke="#a78bfa" stroke-width="1" opacity="0.55"/>
+    <circle cx="22" cy="24" r="4" fill="#a78bfa"/>
+    <text x="36" y="29" class="mono name" font-size="14">Autonomous Mobile Manipulator</text>
+    <text x="464" y="46" text-anchor="end" class="mono tag" fill="#a78bfa">ROBOTICS</text>
+    <text x="22" y="58" class="mono desc">RGB-D perception pipeline for obstacle detection feeding</text>
+    <text x="22" y="76" class="mono desc">an autonomous navigation + manipulation stack. [Ongoing]</text>
+    <line x1="22" y1="96" x2="458" y2="96" stroke="#1e293b" stroke-width="1"/>
+    <text x="22" y="120" class="mono stack_lbl">STACK</text>
+    <text x="22" y="140" class="mono stack">Python · ROS2 · Nav2 · Jetson · Docker</text>
+    <text x="22" y="162" class="mono link">↳ Ongoing build</text>
+  </g>
+
+  <g transform="translate(560,480)">
+    <rect width="480" height="178" rx="10" fill="#020617" stroke="#1e293b" stroke-width="1.5"/>
+    <rect width="480" height="178" rx="10" fill="none" stroke="#facc15" stroke-width="1" opacity="0.55"/>
+    <circle cx="22" cy="24" r="4" fill="#facc15"/>
+    <text x="36" y="29" class="mono name" font-size="14">ROS2 Workflow Automation</text>
+    <text x="464" y="46" text-anchor="end" class="mono tag" fill="#facc15">DEVTOOLS</text>
+    <text x="22" y="58" class="mono desc">CLI tool automating ROS2 build / launch / visualization</text>
+    <text x="22" y="76" class="mono desc">steps from XML-defined workflow configurations.</text>
+    <line x1="22" y1="96" x2="458" y2="96" stroke="#1e293b" stroke-width="1"/>
+    <text x="22" y="120" class="mono stack_lbl">STACK</text>
+    <text x="22" y="140" class="mono stack">Python · ROS2 · Linux · OOP</text>
+    <text x="22" y="162" class="mono link">↳ Internal tooling project</text>
+  </g>
+</svg>
