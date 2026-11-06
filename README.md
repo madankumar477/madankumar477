@@ -18,5 +18,5 @@
 <p align="center">
   <a href="https://linkedin.com/in/emadankumar"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;&nbsp;
   <a href="mailto:mk6360363552@gmail.com"><img src="https://img.shields.io/badge/Gmail-0A101F?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-0A101F?style=for-the-badge&logoColor=10B981" alt="Portfolio: Coming Soon" />
+  <a href="https://madankumar477.github.io/"><img src="https://img.shields.io/badge/Portfolio-madankumar477.github.io-0A101F?style=for-the-badge&logo=googlechrome&logoColor=10B981" alt="Portfolio" /></a>
 </p>
